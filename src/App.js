@@ -13,7 +13,7 @@ class App extends React.Component{
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
 		<div> 
-                     <ToggleComponent text = "Wazzzzzzzz up!"/>
+                     <ToggleComponent text = "Wazzzzzzzz up?!?!"/>
                 </div>
       </header>
     </div>
