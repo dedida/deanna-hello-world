@@ -5,6 +5,7 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  margin: 20px; 
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -26,6 +27,25 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.button {  
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#myDIV {
+  width: 100%;
+  padding: 50px 0;
+  text-align: center;
+  background-color: lightblue;
+  margin-top: 20px;
 }
 
 @keyframes App-logo-spin {
